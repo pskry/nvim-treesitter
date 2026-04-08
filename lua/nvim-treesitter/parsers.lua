@@ -1998,6 +1998,22 @@ return {
     maintainers = { '@stevanmilic' },
     tier = 2,
   },
+  scampi = {
+    install_info = {
+      revision = '84db174017715dd31cd1850010c989298457cbbf',
+      url = 'https://github.com/scampi-dev/tree-sitter-scampi',
+    },
+    maintainers = { '@pskry' },
+    tier = 2,
+  },
+  scampi_mod = {
+    filetype = 'scampi.mod',
+    install_info = {
+      url = 'https://github.com/scampi-dev/tree-sitter-scampi-mod',
+    },
+    maintainers = { '@pskry' },
+    tier = 2,
+  },
   scfg = {
     install_info = {
       revision = 'd850fd470445d73de318a21d734d1e09e29b773c',

@@ -255,6 +255,7 @@ jsx (queries only)[^jsx] | unstable | `HFIJ ` | @steelsojka
 [runescript](https://github.com/2004Scape/tree-sitter-runescript) | unstable | `H  J ` | @2004Scape
 [rust](https://github.com/tree-sitter/tree-sitter-rust) | unstable | `HFIJL` | @amaanq
 [scala](https://github.com/tree-sitter/tree-sitter-scala) | unstable | `HF JL` | @stevanmilic
+[scampi](https://github.com/scampi-dev/tree-sitter-scampi) | unstable | `HFIJL` | @pskry
 [scfg](https://github.com/rockorager/tree-sitter-scfg) | unstable | `H  J ` | @WhyNotHugo
 [scheme](https://github.com/6cdh/tree-sitter-scheme) | unstable | `HF J ` | 
 [scss](https://github.com/serenadeai/tree-sitter-scss) | unstable | `HFIJ ` | @elianiva

@@ -1,0 +1,13 @@
+[
+  (block)
+  (type_body)
+  (attribute_type_body)
+  (parameter_list)
+  (argument_list)
+  (list_literal)
+  (map_literal)
+  (struct_literal)
+  (enum_declaration)
+  (string)
+  (multiline_string)
+] @fold
